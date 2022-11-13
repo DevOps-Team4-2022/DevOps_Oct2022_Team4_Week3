@@ -17,8 +17,8 @@
 ```
 | Automated Actions | Output | Output Result |
 | :-: | :-: | :-: |
-| Check invalid login | ![test](https://i.imgur.com/897RBUZ.png) | **Success** | 
-| Using searchbar to search for book | *Image here* | **Success** |
+| Navigate to login page and login with invalid credentials | ![img](https://i.imgur.com/897RBUZ.png) | **Success** | 
+| Using searchbar to search for a specific book | ![img](https://i.imgur.com/2ue7EIk.png) | **Success** |
 | Placeholder | *Image here* | **Success** |
 | Placeholder | *Image here* | **Success** |
 | Placeholder | *Image here* | **Success** |
