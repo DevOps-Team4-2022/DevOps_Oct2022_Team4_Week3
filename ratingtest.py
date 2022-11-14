@@ -2,7 +2,8 @@ import time
 
 from selenium import webdriver
 
-driver = webdriver.Chrome()
+chromedriver_location = "/Users/Downloads/chromedriver"
+driver = webdriver.Chrome(chromedriver_location)
 driver.get("https://www.nlb.gov.sg/main/home")
 driver.maximize_window()
 
