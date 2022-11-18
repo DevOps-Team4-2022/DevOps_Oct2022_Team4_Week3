@@ -7,9 +7,10 @@
 - Filter through the different test cases and decide which are the ones that are testable
 - Allocate the different test cases using [Git Projects](https://github.com/DevOps-Team4-2022/DevOps_Oct2022_Team4_Week4/projects?query=is%3Aopen)
 
-
 ## Test Cases
 
+Fully-Documented Test Case will be placed into our teams folder.
+ 
 #### Command to run Pytest:
 
 ```http
