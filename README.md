@@ -20,8 +20,8 @@ Fully-Documented Test Case will be placed into our teams folder.
 | :-: | :-: | :-: |
 | Navigate to login page and login with invalid credentials | ![img](https://i.imgur.com/897RBUZ.png) | **Success** | 
 | Using searchbar to search for a specific book | ![img](https://i.imgur.com/2ue7EIk.png) | **Success** |
-| Placeholder | *Image here* | **Success** |
-| Placeholder | *Image here* | **Success** |
+| Give a "VERY SATISFIED" rating | ![image](https://user-images.githubusercontent.com/73161203/204545721-da1aee61-93a1-4c70-a89f-f87a6e171409.png) | **Error** |
+| Search for workshop events in the "What's On" page | ![image](https://user-images.githubusercontent.com/73161203/204545788-c286e98b-5cee-40c9-9f61-3e779f79f266.png) | **Error** |
 | Placeholder | *Image here* | **Success** |
 | Placeholder | *Image here* | **Success** |
 | Placeholder | *Image here* | **Success** |
